@@ -16,5 +16,11 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "start_url": "Swastik.Chauhan",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "scope": "Swastik.Chauhan"
 }
